@@ -15,20 +15,22 @@ Since I started my journey into web development, I've been actively freelancing,
 
 ## Career Objectives
 
-1. **Capable to Work**
+
+1. <span style="color: green;">**Capable to Work**</span>
    - My aim is to work comfortably and continually enhance my skills to excel in my chosen field.
 
-2. **Unity in Projects**
+2. <span style="color: green;">**Unity in Projects**</span>
    - I believe in fostering unity in every project, promoting teamwork for effective development.
 
-3. **Good Relationship**
+3. <span style="color: green;">**Good Relationship**</span>
    - I value strong relationships in the workplace, understanding that teamwork is crucial for overall success.
 
-4. **Flexibility**
+4. <span style="color: green;">**Flexibility**</span>
    - Adaptability is key. My diverse experience, from cafes to corporate settings, has honed my ability to learn and thrive in various work environments.
 
-5. **Strategic Approach**
+5. <span style="color: green;">**Strategic Approach**</span>
    - Recognizing the importance of strategy in project execution, I aim to contribute to business growth through well-thought-out plans, known locally as "diskarte."
+
 
 ## Let's Connect!
 
