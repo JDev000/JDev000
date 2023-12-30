@@ -6,9 +6,9 @@ my knowledge for me to be able to
 create more projects and to inspire
 everyone
 
-Front End Developer
-UI/UX Designer
-Aspring Computer Scientist
+## Front End Developer
+## UI/UX Designer
+## Aspring Computer Scientist
 
 <h1 style='color: greenn;'>ASPIRING COMPUTER SCIENTIST</h1>
 
