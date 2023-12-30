@@ -1,4 +1,4 @@
-#### Jerome Edica | Currently Grade 12 Level👋
+# Jerome Edica | Currently Grade 12 Level👋
 I do Freelancing and such more. I'm
 only 16 when i started learning how to
 create website and i keep expanding
@@ -6,8 +6,9 @@ my knowledge for me to be able to
 create more projects and to inspire
 everyone
 
-# Front End Developer
-# UI/UX Designer
+Front End Developer
+UI/UX Designer
+Aspring Computer Scientist
 
 <h1 style='color: greenn;'>ASPIRING COMPUTER SCIENTIST</h1>
 
