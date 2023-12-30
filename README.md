@@ -1,6 +1,7 @@
-# Hi there, I'm Jerome Edica! 👋
+# Hi there, I'm Jerome Edica | Currently Grade 12 Level👋
 
-# 👋 Jerome Edica - Aspiring Web Developer
+#Front End Developer
+#UI/UX Designer
 
 Hello! I'm Jerome Edica, a dedicated 16-year-old web developer on a mission to create inspiring projects and continually expand my knowledge.
 
