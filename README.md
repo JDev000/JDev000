@@ -1,6 +1,11 @@
 # Jerome Edica | Currently Grade 12 Level👋
-Hello! I'm Jerome Edica, a dedicated web developer
-on a mission to create inspiring projects and continually expand my knowledge.
+I do Freelancing and such more. I'm
+only 16 when i started learning how to
+create website and i keep expanding
+my knowledge for me to be able to
+create more projects and to inspire
+everyone
+
 ## Front End Developer
 ## UI/UX Designer
 
