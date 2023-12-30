@@ -1,9 +1,11 @@
 # Hi there, I'm Jerome Edica | Currently Grade 12 Level👋
 
-#Front End Developer
-#UI/UX Designer
+## Front End Developer
+## UI/UX Designer
 
-Hello! I'm Jerome Edica, a dedicated 16-year-old web developer on a mission to create inspiring projects and continually expand my knowledge.
+![Profile Image](https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/412284268_1077637556752251_7900963601799980399_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeG3Nv5YdwJuyMyuek3NxSe9j6WZFNr92KuPpZkU2v3Yq0l992UGGbr5WvmjYziP1vqkR8B2tXXCheDsYEhwe-cP&_nc_ohc=GcI6xOEbxrMAX8BA2wn&_nc_ht=scontent.fmnl17-3.fna&oh=03_AdSi07PZG1W12rK4ZEVud9U9Xt9Brai5laH5dKyEDMtfJA&oe=65B7918D)
+
+Hello! I'm Jerome Edica, a dedicated web developer on a mission to create inspiring projects and continually expand my knowledge.
 
 ## Freelancing and Learning Journey
 
