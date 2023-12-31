@@ -8,6 +8,8 @@ everyone
 
 <p>Front End Developer</p>
 <p>UI/UX Designer</p>
+<p>3D Artist</p>
+<p>Tech Lead</p>
 <p>Aspiring Computer Scientist</p>
 
 
