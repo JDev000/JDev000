@@ -6,11 +6,11 @@ my knowledge for me to be able to
 create more projects and to inspire
 everyone
 
-<p>Front End Developer</p>
-<p>UI/UX Designer</p>
-<p>3D Artist</p>
-<p>Tech Lead</p>
-<p>Aspiring Computer Scientist</p>
+<p>- Front End Developer</p>
+<p>- UI/UX Designer</p>
+<p>- 3D Artist</p>
+<p>- Tech Lead</p>
+<p>- Aspiring Computer Scientist</p>
 
 
 <div align='left'>
