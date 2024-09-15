@@ -13,7 +13,7 @@ everyone
 <p>- Aspiring Computer Scientist</p>
 
 <p>also participated in Science Technology Fair... National Expo Team</p>
-<p> Best presenter (school division) @Quezon </p>
+<p> Best Research Presenter (school division) @Quezon </p>
 <p>Introducing my very first own model of a drone, the EPD Penta-Copter, created from scratch.</p>
 
 
