@@ -78,4 +78,9 @@ Happy coding! 🚀
 
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C84?logo=matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
 
