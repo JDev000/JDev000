@@ -14,6 +14,8 @@ everyone
 
 <p>also participated in Science Technology Fair... National Expo Team</p>
 <p> Best presenter (school division) @Quezon </p>
+<p>Introducing my very first own model of a drone, the EPD Penta-Copter, created from scratch.</p>
+
 
 <div align='left'>
     <img src="pr1.jpg" alt="Profile Image" width="250" style="margin-right: 10px;">
