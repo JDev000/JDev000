@@ -7,10 +7,14 @@ create more projects and to inspire
 everyone
 
 <p>- Front End Developer</p>
+<p>- Jr Back End Developer</p>
+<p>- CN Specialist</p>
+<p>- Cyber Security Guard</p>
 <p>- UI/UX Designer</p>
 <p>- 3D Artist</p>
 <p>- Tech Lead</p>
 <p>- Aspiring Computer Scientist</p>
+
 
 <p>also participated in Science Technology Fair... National Expo Team</p>
 <p> Best Research Presenter (school division) @Quezon </p>
